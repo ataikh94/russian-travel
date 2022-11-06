@@ -5,4 +5,5 @@
 В проекте использованы технологии:
 Flex, Grid, Адаптивная вёрстка
 
-Ссылка на GitPages:
+Ссылка на GitPages: https://ataikh94.github.io/russian-travel/
+или https://ataikh94.github.io/russian-travel/index.html
