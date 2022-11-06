@@ -1,0 +1,10 @@
+.intro__list {
+    color: #fff;
+    margin: 32px 0 0;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: .2px;
+    list-style: none;
+    padding: 0;
+}
