@@ -1,7 +1,7 @@
 .intro__list-span {
-    font-family: 'Inter-Bold';
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
     color: #fff;
-    font-weight: 400;
+    font-weight: 700;
     font-size: 12px;
     line-height: 18px;
 }
