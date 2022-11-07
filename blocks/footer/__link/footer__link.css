@@ -8,6 +8,10 @@
     font-family: 'Inter', Arial, Helvetica, sans-serif;
 }
 
+.footer__link:last-child {
+    margin: 0;
+}
+
 .footer__link:hover {
     opacity: .8;
 }
