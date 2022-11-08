@@ -4,16 +4,11 @@
     padding: 0;
 }
 
-@media screen and (max-width: 680px) and (min-width: 320px) {
-    .footer__links {
-        display: block;
-    }
-}
-
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 680px) {
     .footer__links {
         flex-direction: column;
         gap: 32px;
         margin: 0;
     }
 }
+

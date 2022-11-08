@@ -7,6 +7,13 @@
     font-family: 'Inter', Arial, Helvetica, sans-serif;
 }
 
+@media screen and (max-width: 500px) and (min-width: 321px) {
+    .intro__title {
+        font-size: 46px;
+        line-height: 48px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .intro__title {
         font-size: 32px;

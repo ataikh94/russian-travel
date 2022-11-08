@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
-    padding: 70px 48px 0;
+    padding: 92px 48px 24px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -17,7 +17,7 @@
     }
 }
 
-@media screen and (max-width: 680px) and (min-width: 320px) {
+@media screen and (max-width: 680px) and (min-width: 321px) {
     .footer {
         display: block;
     }

@@ -8,9 +8,3 @@
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     text-transform: uppercase;
 }
-
-@media screen and (max-width: 320px) {
-    place__url-heading {
-        margin: 0 0 12px 0;
-    }
-}
