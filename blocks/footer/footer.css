@@ -7,13 +7,13 @@
 
 @media screen and (max-width: 1024px) {
     .footer {
-        padding: 92px 48px 0;
+        padding: 92px 48px 24px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .footer {
-        padding: 71px 24px 0;
+        padding: 71px 24px 24px;
     }
 }
 
@@ -26,6 +26,6 @@
 @media screen and (max-width: 320px) {
     .footer {
         display: block;
-        padding: 64px 16px 0;
+        padding: 64px 16px 24px;
     }
 }
