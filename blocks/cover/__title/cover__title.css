@@ -8,21 +8,21 @@
     font-family: 'Inter', Arial, Helvetica, sans-serif;
 }
 
-@media screen and (max-width: 680px) and (min-width: 501px) {
+@media screen and (max-width: 700px) and (min-width: 501px) {
     .cover__title {
         font-size: 50px;
         line-height: 54px;
     }
 }
 
-@media screen and (max-width: 500px) and (min-width: 321px) {
+@media screen and (max-width: 500px) and (min-width: 341px) {
     .cover__title {
         font-size: 46px;
         line-height: 48px;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 340px) {
     .cover__title {
         font-size: 32px;
         line-height: 35px;

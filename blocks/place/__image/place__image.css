@@ -4,9 +4,3 @@
     object-position: top;
     box-sizing: border-box;
 }
-
-@media screen and (max-width: 320px) {
-    .place__image {
-        max-width: 320px;
-    }
-}

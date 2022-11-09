@@ -11,12 +11,12 @@
 
 @media screen and (max-width: 768px) {
     .cover {
-        padding: 90px 0 0;
+        padding: 70px 0 0;
     }
 }
 
 @media screen and (max-width: 320px) {
     .cover {
-        padding: 92px 0 0;
+        padding: 66px 0 0;
     }
 }
