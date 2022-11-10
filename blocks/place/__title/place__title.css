@@ -20,6 +20,11 @@
     .place__title {
         font-size: 32px;
         line-height: 35px;
-        padding-left: 16px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .place__title {
+        padding: 0 16px 0;
     }
 }
