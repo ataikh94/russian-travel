@@ -8,14 +8,14 @@
     font-family: 'Inter', Arial, Helvetica, sans-serif;
 }
 
-@media screen and (max-width: 700px) and (min-width: 501px) {
+@media screen and (max-width: 700px) {
     .cover__title {
         font-size: 50px;
         line-height: 54px;
     }
 }
 
-@media screen and (max-width: 500px) and (min-width: 341px) {
+@media screen and (max-width: 500px) {
     .cover__title {
         font-size: 46px;
         line-height: 48px;

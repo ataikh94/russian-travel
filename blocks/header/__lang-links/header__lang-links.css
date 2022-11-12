@@ -9,12 +9,12 @@
 
 @media screen and (max-width: 768px) {
     .header__lang-links {
-        margin: 0 9px 0px 0;
+        margin-right: 9px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .header__lang-links {
-        margin: 0 16px 0px 0;
+        margin-right: 16px;
     }
 }

@@ -12,19 +12,22 @@
     margin-bottom: 0;
 }
 
-.place__paragraph:only-of-type {
-    margin-bottom: 0;
-}
-
 @media screen and (max-width: 870px) {
     .place__paragraph {
         font-size: 16px;
         line-height: 26px;
+        min-width: 352px;
+    }
+}
+
+@media screen and (max-width: 755px) {
+    .place__paragraph {
+        min-width: 250px;
     }
 }
 
 @media screen and (max-width: 350px) {
     .place__paragraph {
-        padding: 0 16px 0;
+        padding: 0 16px;
     }
 }
