@@ -1,5 +1,5 @@
 .header__lang-links {
-    margin: 0 32px 0 0;
+    margin: 0 48px 0 0;
     list-style-type: none;
     display: flex;
     align-items: flex-end;
@@ -9,7 +9,7 @@
 
 @media screen and (max-width: 768px) {
     .header__lang-links {
-        margin-right: 9px;
+        margin-right: 24px;
     }
 }
 
